@@ -46,3 +46,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+logic diagram:
+![jk flipflop](https://github.com/user-attachments/assets/da10aa21-fd41-4a17-9073-fa15c6f284ed)
+state diagram:
+![jk flipflop state diagram](https://github.com/user-attachments/assets/5af527ad-5dd4-41e6-8565-99f8d5982e6e)
